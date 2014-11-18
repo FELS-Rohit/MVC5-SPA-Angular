@@ -658,7 +658,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>65489</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://spaAuth.localtest.me:65489</IISUrl>
+          <IISUrl>http://localhost:65489</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>http://testing.justinmaier.com</CustomServerUrl>
