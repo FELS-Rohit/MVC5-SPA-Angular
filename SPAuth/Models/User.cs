@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security.OAuth;
 using System.Data.Entity;
 using System.Security.Claims;
 using System.Threading.Tasks;
+using MongoDB.AspNet.Identity;
 
 namespace SPAuth.Models {
 	public class User : IdentityUser {
